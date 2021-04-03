@@ -8,7 +8,7 @@ Taico is a single page design for a restaurant. This project was designed to tes
   <li> Vanilla JS </LI>
  </ul>
  
- ###Links
+ ### Links
  <a href = "https://wonderful-einstein-b29654.netlify.app/"> Project Link </a>
  
  ### Challenges
